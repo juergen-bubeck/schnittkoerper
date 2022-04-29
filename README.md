@@ -1,2 +1,2 @@
 # schnittkoerper
-Schnittkörper für den Matematikunterricht
+Schnittkörper für den Mathematikunterricht
